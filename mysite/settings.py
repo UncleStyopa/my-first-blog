@@ -25,7 +25,7 @@ SECRET_KEY = 'o$m3-7duz20)#$xezv#!^mhkt4&99q3l=3)$$0n=(iuv5fcdg5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bubliki.pythonanywhere.com']
 
 
 # Application definition
